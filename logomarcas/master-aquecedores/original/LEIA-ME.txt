@@ -1,0 +1,4 @@
+Originais recebidos/em uso da Master Aquecedores - NAO editar.
+Origem: biblioteca de midia do site masteraquecedores.com (baixados em 13/10/2026; ver repo marenzous/master-aquecedores-site, pasta _assets-originais).
+master-logo-gota-azul-386x150.png = logo atual em uso (identico, byte a byte, a public/marca/logo.png do site novo). E a BASE do vetor desta pasta.
+Os arquivos *script* (SVG) sao outra marca (Master em cursivo), mais antiga; nao foi usada. Qual e a oficial: a confirmar com a cliente.
