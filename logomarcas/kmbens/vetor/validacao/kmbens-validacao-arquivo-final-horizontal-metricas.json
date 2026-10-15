@@ -1,0 +1,15 @@
+{
+ "branco": {
+  "mae": 2.89,
+  "pct_gt24": 2.77
+ },
+ "preto": {
+  "mae": 1.96,
+  "pct_gt24": 2.25
+ },
+ "dentro_do_logo": {
+  "mae": 5.83,
+  "pct_gt24": 5.19
+ },
+ "silhueta_iou": 0.9894
+}
