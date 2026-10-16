@@ -1,0 +1,13 @@
+ORIGINAIS INTACTOS (nao editar). Coletados em 15/10/2026 do site da RDA (WordPress, rdadistribuidora.com) e do perfil publico do Instagram.
+
+logo-rda2.png (286x80, PNG indexado com transparencia)
+  https://rdadistribuidora.com/wp-content/uploads/2024/04/logo-rda2.png
+  = ARQUIVO-BASE do vetor. Logo oficial em uso (engrenagens + RDA + faixa "Suprimentos Industriais"), igual ao da fachada, dos carros e do avatar do Instagram.
+RDA-DISTRIBUIDORA.webp (150x150)  .../2024/08/RDA-DISTRIBUIDORA.webp   mesma arte, menor.
+fav.png (512x512)                 .../2024/04/fav.png                 favicon atual do site: so as engrenagens num quadrado cinza arredondado (arte derivada, nao e o logo completo).
+instagram-avatar-100x100-referencia.png  avatar publico de @rdadistribuicao (prova de que o logo de engrenagens e o usado nas redes).
+divergente-imagem-rda-vermelho-cinza-NAO-OFICIAL.png (400x400)
+  https://rdadistribuidora.com/wp-content/uploads/2025/08/imagem-rda.png  (imagem de destaque de um post de 27/08/2025).
+  Outro desenho ("RDA" vermelho + "DISTRIBUIDORA" cinza). Nao aparece em fachada, veiculos nem Instagram. NAO e usado neste Pacote. Guardado so como evidencia da divergencia; qual e o oficial, a RDA confirma.
+
+ATENCAO: o arquivo logo.svg da biblioteca de midia do site (.../2024/04/logo.svg) e o logotipo da ALFAGOMMA (fabricante), NAO da RDA. Nao usar como logo da RDA.
