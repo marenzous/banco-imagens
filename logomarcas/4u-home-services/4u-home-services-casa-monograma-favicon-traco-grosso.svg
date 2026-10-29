@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>4U Home Services</title>
+  <rect width="64" height="64" rx="14" fill="#0066CC"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"><path d="M53 29 L32 11 L11 37 H35"/><path d="M32 11 V53"/></g>
+  <path d="M44 35 V45 a6 6 0 0 0 12 0 V35" fill="none" stroke="#FAC800" stroke-width="8" stroke-linecap="round"/>
+</svg>

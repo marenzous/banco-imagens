@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>4U Home Services — ícone Casa-Monograma</title>
+  <rect width="64" height="64" rx="14" fill="#0066CC"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M53 29 L32 11 L11 37 H36"/><path d="M32 11 V53"/></g>
+  <path d="M43 37 V45 a5.5 5.5 0 0 0 11 0 V37" fill="none" stroke="#FAC800" stroke-width="6" stroke-linecap="round"/>
+</svg>
