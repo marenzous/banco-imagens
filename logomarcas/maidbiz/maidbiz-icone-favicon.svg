@@ -1,0 +1,9 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="MaidBiz favicon">
+  <!-- Solid aqua tile, high contrast for 16-32px -->
+  <rect x="0" y="0" width="512" height="512" rx="108" ry="108" fill="#15C3B4"/>
+
+  <!-- Single bold checkmark, thick stroke, no fine detail -->
+  <path d="M 130,270 L 220,356 L 390,150"
+        fill="none" stroke="#FFFFFF" stroke-width="52"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
